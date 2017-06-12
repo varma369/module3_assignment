@@ -21,6 +21,8 @@ body {
 #nav-list span{
   color: #951C49;
   text-align: center;
+  padding-bottom: 10px;
+  
 }
 
 .navbar-header button.navbar-toggle {
